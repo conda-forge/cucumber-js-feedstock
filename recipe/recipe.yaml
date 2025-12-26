@@ -1,5 +1,5 @@
 context:
-  version: "12.4.0"
+  version: "12.5.0"
 
 package:
   name: cucumber-js
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@cucumber/cucumber/-/cucumber-${{ version }}.tgz
-  sha256: fa1d4d42b7e95f0682df5a9c7779a754fc88813c077dc8d52965f2f6d9800aee
+  sha256: fc237b97d68a20f757a35694ba92daf1673da041935662aacb74b5adcb0ab831
 
 build:
   number: 0
